@@ -1,0 +1,40 @@
+# This is the settings customisation file for the GPE (Git Prompt Extension)
+# Below are the customisable Colours for each Element
+# Here is a chart for every Colour you can use
+# 
+# Black='\033[0;30m'
+# DarkGray='\033[1;30m'
+# Red='\033[0;31m'
+# LightRed='\033[1;31m'
+# Green='\033[0;32m'
+# LightGreen='\033[1;32m'
+# Orange='\033[0;33m'
+# Yellow='\033[1;33m'
+# Blue='\033[0;34m'
+# LightBlue='\033[1;34m'
+# Purple='\033[0;35m'
+# LightPurple='\033[1;35m'
+# Cyan='\033[0;36m'
+# LightCyan='\033[1;36m'
+# LighGray='\033[0;37m'
+# White='\033[1;37m'
+# NoColour='\033[0m'
+# 
+# To set the Colour, Follow the Comment Prompts
+
+# Brackets Colour [ ]
+Yellow
+
+# Git Branch Name + Status Indicator ≡ ↑ ↓
+LightCyan
+
+# Staged Stat Colours +0 ~0 -0
+Green
+
+# Unstaged Stat Colours +0 ~0 -0
+Red
+
+
+# Below is the GPE alias
+# Feel free to change it to anything you want
+gpe

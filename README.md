@@ -16,6 +16,10 @@ Or whatever you set the custom command alias to be in the GPE.settings file.
 
 To run the command, type the alias into the terminal.
 
+GPE will persist inside of the Terminal instance once you have ran the command.
+
+If you close the Terminal (CLI) then you will need to run the command again.
+
 ## Customisation
 There is a file called ```GPE.settings``` which contains settings you can change to customise GPE.
 
